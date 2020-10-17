@@ -1,5 +1,5 @@
 #
-![Logo of the project](./public/images/logo.svg)
+![Logo of the project](/images/logo.svg)
 
 ##
 <h1 align="center">Projeto Happy Web - NLW#3 - by Rocketseat</h1>
