@@ -74,3 +74,9 @@ function toggleSelect(event){
 
 
 }
+function validate(event){
+
+    const needsLatAndLng = false
+    if(needsLatAndLng){event.preventDefat()
+    alert('Selecione um ponto no mapa')}
+}
