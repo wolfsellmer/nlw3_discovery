@@ -13,3 +13,7 @@ Descrição do Projeto
 
 
  <a href="#tecnologias">Tecnologias: JavaScript - Node.js</a> 
+
+
+###
+![Image of the project](/public/images/happy.png)
